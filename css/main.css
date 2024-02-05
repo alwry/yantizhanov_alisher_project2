@@ -17,4 +17,17 @@ body, p, h1, h2, h3, h4, h5 {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 15px;
+ }
+
+ #hero-img {
+    height: 200px;
+ }
+
+ .product {
+    height: 150px;
+ }
+
+ .square {
+    height: 200px;
  }
