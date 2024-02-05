@@ -9,7 +9,9 @@ body, p, h1, h2, h3, h4, h5 {
     font-family: Arial, Helvetica, sans-serif;
  }
 
-
+header {
+   margin-top: 15px;
+}
 
  .box {
     background-color: blueviolet;
@@ -31,3 +33,13 @@ body, p, h1, h2, h3, h4, h5 {
  .square {
     height: 200px;
  }
+
+ #hidden-img {
+   display: none;
+ }
+
+ @media screen and (min-width: 1200px) {
+   #hidden-img {display: flex;}
+ }
+   
+ 
