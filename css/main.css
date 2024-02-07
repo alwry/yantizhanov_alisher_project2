@@ -39,7 +39,7 @@ header {
  }
 
  @media screen and (min-width: 1200px) {
-   #hidden-img {display: flex;}
+   #hidden-img {display: flex;};
  }
    
  
